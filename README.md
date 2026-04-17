@@ -89,4 +89,4 @@ Production-ready AI systems that combine:
 
 - Email: aashish.rana.27@gmail.com  
 - LinkedIn: www.linkedin.com/in/aashish-rana-45b7bb163
-- GitHub: github.com/RanaAashish
+- GitHub: [github.com/RanaAashish](https://github.com/RanaAashish)
