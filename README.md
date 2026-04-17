@@ -63,8 +63,7 @@ I specialize in designing and deploying end-to-end AI systems involving LLMs, RA
 - LLM-powered applications (RAG, Agents, Chatbots)
 - Enterprise search & retrieval systems
 - AI-driven automation pipelines
-- Scalable data engineering systems
-
+  
 ---
 
 ## 📌 Certifications
@@ -73,17 +72,6 @@ I specialize in designing and deploying end-to-end AI systems involving LLMs, RA
 - Claude Code (Anthropic)  
 - LLM Engineer Bootcamp (Udemy)
 
----
-
-## 🚀 What I'm Currently Building
-
-Production-ready AI systems that combine:
-- Large Language Models
-- Retrieval-Augmented Generation (RAG)
-- Structured + unstructured data intelligence
-- Cloud-native architecture on AWS
-
----
 
 ## 📫 Contact
 
