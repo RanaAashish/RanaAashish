@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aashish Rana
+# Hi, I'm Aashish Rana
 
 Data Scientist / AI ML Engineer with 3+ years of experience building production-grade AI systems for enterprise use cases.
 
@@ -6,7 +6,7 @@ I specialize in designing and deploying end-to-end AI systems involving LLMs, RA
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - Built production LLM systems using RAG, GraphRAG, and AI agents
 - Worked on hybrid search systems (semantic + keyword + reranking)
@@ -16,7 +16,7 @@ I specialize in designing and deploying end-to-end AI systems involving LLMs, RA
 
 ---
 
-## 🏢 Experience
+## Experience
 
 ### Tatras Data — Data Scientist (May 2023 – Present)
 
@@ -47,7 +47,7 @@ I specialize in designing and deploying end-to-end AI systems involving LLMs, RA
 
 ---
 
-## 🧠 Technical Skills
+## Technical Skills
 
 **LLMs & AI:** OpenAI, Claude, AWS Bedrock, LangChain, LangGraph, AutoGen  
 **Vector Databases:** Pinecone, OpenSearch, FAISS  
@@ -58,7 +58,7 @@ I specialize in designing and deploying end-to-end AI systems involving LLMs, RA
 
 ---
 
-## 🎯 Focus Areas
+## Focus Areas
 
 - LLM-powered applications (RAG, Agents, Chatbots)
 - Enterprise search & retrieval systems
@@ -66,14 +66,14 @@ I specialize in designing and deploying end-to-end AI systems involving LLMs, RA
   
 ---
 
-## 📌 Certifications
+## Certifications
 
 - AWS Certified Cloud Practitioner  
 - Claude Code (Anthropic)  
 - LLM Engineer Bootcamp (Udemy)
 
 
-## 📫 Contact
+## Contact
 
 - Email: aashish.rana.27@gmail.com  
 - LinkedIn: www.linkedin.com/in/aashish-rana-45b7bb163
